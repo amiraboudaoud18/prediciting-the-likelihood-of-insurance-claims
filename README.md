@@ -21,3 +21,5 @@ The dataset contains various features that contribute to predicting insurance cl
 
 ## Conclusion
 The model developed in this project effectively handles the class imbalance in the dataset and demonstrates good predictive performance on both the majority and minority classes, ensuring that insurers can better assess risk and allocate resources efficiently.
+
+- the source code and main work is reffered from this cool article : https://thecleverprogrammer.com/2024/04/01/classification-on-imbalanced-data-using-python/
